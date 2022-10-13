@@ -3,11 +3,11 @@
 
     <h4>Please, when using this web site or its data, cite us using the reference:</h4>
 
-    <div class="card bg-light" style="height:100px">
+    <div class="card bg-light">
       <div class= "card-body">    
-        Last_name, N., Last_name, N., Last_name, N., Last_name, N., Last_name, N. (year).
-        Title of the publication<br>
-        <a href="paper_link" target="blank">Journal, 1(1), 111</a><br>
+        Lantican DV, Strickler SR, Canama AO, Gardoce RR, Mueller LA, Galvez HF (2019).
+        <b><i>De Novo</i> Genome Sequence Assembly of Dwarf Coconut (<i>Cocos nucifera</i> L. 'Catigan Green Dwarf') Provides Insights into Genomic Variation Between Coconut Types and Related Palm Species.</b>
+        <a href="https://doi.org/10.1534/g3.119.400215" target="blank">G3 (Bethesda). 9(8):2377-2393.</a>
       </div>
     </div>
 
