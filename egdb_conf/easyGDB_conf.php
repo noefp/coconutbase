@@ -44,9 +44,9 @@ $ab_labs = 1;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="gene1.1
-gene2.1
-gene3.1";
+$input_gene_list="Cnu_00005-RA
+Cnu_00006-RA
+Cnu_00007-RA";
 
 
 // Tools
