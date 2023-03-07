@@ -1,0 +1,9 @@
+{
+  "A.thaliana":
+    {"gprofiler_sps" : "athaliana",
+      "lookup_files":
+      [
+        "coconut_CATD_Arabidopsis_Best_hit"
+      ]
+    }
+}
