@@ -45,9 +45,32 @@ $ab_labs = 1;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="Cnu_00005-RA
-Cnu_00006-RA
-Cnu_00007-RA";
+$input_gene_list="Cnu_31986-RA
+Cnu_34333-RA
+Cnu_06654-RA
+Cnu_06655-RA
+Cnu_06656-RA
+Cnu_06658-RA
+Cnu_06657-RA
+Cnu_06659-RA
+Cnu_06661-RA
+Cnu_06660-RA
+Cnu_06662-RA
+Cnu_06665-RA
+Cnu_06666-RA
+Cnu_06664-RA
+Cnu_06667-RA
+Cnu_06668-RA
+Cnu_06672-RA
+Cnu_06675-RA
+Cnu_06674-RA
+Cnu_06676-RA
+Cnu_06673-RA
+Cnu_06678-RA
+Cnu_06677-RA
+Cnu_06679-RA
+Cnu_06680-RA
+";
 
 
 // Tools
